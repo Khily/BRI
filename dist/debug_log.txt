@@ -1,0 +1,4 @@
+2025-07-08 11:04:34,914 - INFO - Pengecekan dan pembuatan tabel selesai.
+2025-07-08 11:04:58,972 - WARNING - Icon status tidak ditemukan: [Errno 2] No such file or directory: 'D:\\Magang\\BRI\\Final1\\dist\\assets\\icons\\box_out_icon.png'
+2025-07-08 11:05:56,272 - INFO - Login berhasil untuk user: Admin0182
+2025-07-08 11:09:06,939 - WARNING - Icon status tidak ditemukan: [Errno 2] No such file or directory: 'D:\\Magang\\BRI\\Final1\\dist\\assets\\icons\\box_out_icon.png'
